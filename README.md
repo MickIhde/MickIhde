@@ -36,6 +36,8 @@ Frontend Web Development with a focus on performance, clarity, and conversion. I
 ### Tools & Infra
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
+![Pocketbase](https://img.shields.io/badge/Pocketbase-B8DBE4?style=flat&logo=pocketbase&logoColor=000000)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat&logo=sanity&logoColor=white)
 
 ---
 
