@@ -1,21 +1,20 @@
-# Hey, I'm Mick Ihde (DerMixer) 👋
+# Hey, I'm Mick 👋
 
-Freelancer aus Deutschland — I build **fast, sharp, and distinctive digital products** from first idea to go-live. No template look, no cookie-cutter solutions — just clean code and interfaces that build trust and drive results.
+Freelancer aus Deutschland — I build **fast, well designed, and maintainable Websites** from concept to live and beyond. No template look — just clean code and interfaces that build trust and drive results.
 
 → **[mickihde.de](https://www.mickihde.de)**
 
 ---
 
-## 🛠 What I Do
+## What I Do
 
-Frontend Web Development with a focus on performance, clarity, and conversion. I take care of the whole stack — design, development, deployment — so you can focus on your business.
+Frontend Web Development with a focus on performance, clarity, and conversion. I take care of the whole stack — design, development, deployment & maintenance — so you can focus on your business.
 
-- **Websites & Landing Pages** — fast, opinionated, built to convert
-- **Digital Products** — from concept to live, end-to-end
+**Websites & Landing Pages** — fast, easy to maintain, built to convert and serve what your customers need
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -46,7 +45,7 @@ Frontend Web Development with a focus on performance, clarity, and conversion. I
 Available for freelance projects. Reach out and let's build something worth looking at.
 
 - 🌐 **Portfolio:** [mickihde.de](https://www.mickihde.de)
-- 📧 **Email:** [mickihde.business@gmail.com](mailto:mickihde.business@gmail.com)
+- 📧 **Email:** [mickihde.business@gmail.com](mailto:mickihde.bussiness@gmail.com)
 - 💬 **Discord:** `.dermixer`
 
 ---
